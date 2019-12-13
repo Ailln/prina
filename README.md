@@ -48,6 +48,19 @@ prina(a, b, c)
 # {'a': '1', 'b': 2, 'c': True}
 ```
 
+## 其他
+
+在 `Python 3.8` 中，你可以使用 `f-string` 来调试文档：
+
+```python
+a = "1"
+b = 2
+c = True
+
+print(f"{a=} {b=} {c=}")
+# a=1 b=2 c=True
+```
+
 ## 许可
 
 [![](https://award.dovolopor.com?lt=License&rt=MIT&rbc=green)](./LICENSE)
