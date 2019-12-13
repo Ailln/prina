@@ -11,7 +11,7 @@ DESCRIPTION = "print python variable with the variable name."
 if __name__ == "__main__":
     setup(
         name=NAME,
-        version="0.1.2",
+        version="0.1.3",
         author=AUTHOR,
         author_email=EMAIL,
         url=URL,

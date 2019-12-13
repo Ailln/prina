@@ -23,10 +23,10 @@ print(a, b, c)
 a = "1"
 b = 2
 c = True
-print("a: {}, b: {} c: {}".format(a, b, c))
+print("a: {} b: {} c: {}".format(a, b, c))
 # or (Python3.6+ 支持的语法)
-print(f"a: {a}, b: {b} c: {c}")
-# a: 1, b: 2 c: True
+print(f"a: {a} b: {b} c: {c}")
+# a: 1 b: 2 c: True
 ```
 
 那么有没有一种方法**可以打印 Python 变量时，带着变量名称呢？**
