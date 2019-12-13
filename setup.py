@@ -6,12 +6,12 @@ AUTHOR = "Ailln"
 EMAIL = "kinggreenhall@gmail.com"
 URL = "https://github.com/Ailln/prina"
 LICENSE = "MIT License"
-DESCRIPTION = "print message with name."
+DESCRIPTION = "print python variable with the variable name."
 
 if __name__ == "__main__":
     setup(
         name=NAME,
-        version="0.1.1",
+        version="0.1.2",
         author=AUTHOR,
         author_email=EMAIL,
         url=URL,

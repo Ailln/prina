@@ -45,7 +45,7 @@ b = 2
 c = True
 
 prina(a, b, c)
-# {'a': '1', 'b': 2, 'c': True}
+# a: 1 b: 2 c: True
 ```
 
 ## 其他
